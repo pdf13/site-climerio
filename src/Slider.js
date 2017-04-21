@@ -1,15 +1,19 @@
 import React, { Component } from 'react';
-import Flickity from 'flickity';
+import Flickity from 'flickity-bg-lazyload';
 import '../node_modules/flickity/dist/flickity.css';
 import './Slider.css';
 
 class Slider extends Component {
 	render() {
 		return (
-			<div className="carousel" data-flickity='{"cellAlign": "center"}'>
-			  <div className="carousel-cell"></div>
-			  <div className="carousel-cell"></div>
-			  <div className="carousel-cell"></div>
+			<div className="carousel" data-flickity='{
+				"cellAlign": "center",
+				"wrapAround": true,
+				"autoPlay": true,
+				"bgLazyLoad": true
+			}'>
+				<div className="carousel-cell" data-flickity-bg-lazyload="/img/boca-da-mata/[boca-da-mata]-sala_tv_2-home_supremo-mesa_centro_japa.jpg"></div>
+				<div className="carousel-cell" data-flickity-bg-lazyload="/img/boca-da-mata/[boca-da-mata]-AparadorCaixadeEspelho.jpg"></div>
 			</div>
 		)
 	}
