@@ -52,25 +52,9 @@ const data = {
         '[boca-da-mata]-PardeBasedeMesaTe.jpg',
         '[boca-da-mata]-QuadrodeEspelhoDecorativoTarsila.jpg',
         '[boca-da-mata]-QuadrodeEspelhoDecorativoTurin.jpg',
-        '[boca-da-mata]-sala_jantar_1-aparador_base_Z-buffet_uzzo.jpg',
         '[boca-da-mata]-sala_jantar_2-aparador_base_cx_espelhada-adega_moser.jpg',
-        '[boca-da-mata]-sala_jantar_3-aparador_TE-mesa_indy-adegadalia.jpg',
-        '[boca-da-mata]-sala_jantar_4-buffet_ferrara-mesa_veneza_adega_prince.jpg',
         '[boca-da-mata]-sala_jantar_5-aparadoraguia-base_bola-cristaleira_iris.jpg',
-        '[boca-da-mata]-sala_jantar_6-aparador_ego-base_TE-cirstaleira_moser.jpg',
-        '[boca-da-mata]-sala_jantar_7-multiuso-moldura_buffet_retro-base_escultura.jpg',
-        '[boca-da-mata]-sala_jantar_8-cristaleira_moser_1mt-bancada_adega-mesa_anturia.jpg',
-        '[boca-da-mata]-sala_jantar_9-aparador_mesa_torneado-moldura_chanfrada-buffet_cavalete.jpg',
-        '[boca-da-mata]-sala_tv_1-home_londres-mesa-centro-lider.jpg',
-        '[boca-da-mata]-sala_tv_10-painel-universum-mesa_centro_sublime.jpg',
-        '[boca-da-mata]-sala_tv_2-home_supremo-mesa_centro_japa.jpg',
-        '[boca-da-mata]-sala_tv_3-painel_capri_ll-mesacentro_japa.jpg',
-        '[boca-da-mata]-sala_tv_4-rack_redondo_painel-mesa_centro_wave-mesa-canto_colli.jpg',
-        '[boca-da-mata]-sala_tv_5-painel_damasco-mesa_centro_linea.jpg',
-        '[boca-da-mata]-sala_tv_6-rack_mesa_centro_baob.jpg',
-        '[boca-da-mata]-sala_tv_7-painel_claus-mesa_centro_girona.jpg',
-        '[boca-da-mata]-sala_tv_8-painel_gibson-mesa_centro_canto_wave.jpg',
-        '[boca-da-mata]-sala_tv_9-painel_elite-mesa-centro_canto_Z.jpg',
+  
     ]
 };
 
