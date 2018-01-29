@@ -12,7 +12,7 @@ class Slider extends Component {
 				"autoPlay": true,
 				"bgLazyLoad": true
 			}'>
-				<div className="carousel-cell" data-flickity-bg-lazyload="/img/boca-da-mata/[boca-da-mata]-sala_tv_2-home_supremo-mesa_centro_japa.jpg"></div>
+				<div className="carousel-cell" data-flickity-bg-lazyload="/img/boca-da-mata/[boca-da-mata]-AdegaMoser.jpg"></div>
 				<div className="carousel-cell" data-flickity-bg-lazyload="/img/boca-da-mata/[boca-da-mata]-AparadorCaixadeEspelho.jpg"></div>
 			</div>
 		)
