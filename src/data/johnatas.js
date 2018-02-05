@@ -23,6 +23,8 @@ const data = {
         'P19-Rack-Omega-Mirage-Parati-copy.jpg',
         'P20-Rack-Elegance-Orion-Painel-Passione-copy.jpg',
         'P21-Painel-Zen-Italia-Elegance-copy.jpg',
+		'P2-Cama-Belissima-Blegica-Mandala-Ravena-copy-(1).jpg',
+		'P22-Mesa-PX-Caribe-Suiça-1.jpg',
     ]
 };
 
