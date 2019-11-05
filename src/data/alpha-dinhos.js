@@ -1,8 +1,15 @@
 const data = {
-    url: '/dinhos',
-    slug: 'dinhos',
-    name: 'Dinhos',
+    url: '/alpha-dinhos',
+    slug: 'alpha-dinhos',
+    name: 'Alpha/Dinhos',
     photos: [
+		'MESA-1008-VIDRO-OFF-WHITE-CADEIRA--1008.jpg',
+		'MESA-1008.jpg',
+		'MESA-CRISTAL-TAMPO-WHITE.jpg',
+		'MESA-REDONDA.jpg',
+		'MESA-REF-2019--CADEIR-1008.jpg',
+		'MESA-RUD.jpg',
+		'MESA-SEXTAVADA--CADEIRA-VEGAS.jpg',
         'Cama-01.jpg',
 		'Cama-02.jpg',
 		'Cama-03.jpg',
