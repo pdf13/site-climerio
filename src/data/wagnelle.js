@@ -8,7 +8,7 @@ const data = {
         'wagnelle-3.jpg',
         'wagnelle-4.jpg',
         'wagnelle-5.jpg',
-        'wagnelle-6.jpeg',
+        'wagnelle-6.jpg',
         'wagnelle-7.jpg',
         'wagnelle-8.jpg',
         'wagnelle-9.jpg',
@@ -16,7 +16,26 @@ const data = {
         'wagnelle-11.jpg',
         'wagnelle-12.jpg',
         'wagnelle-13.jpg',
-        'wagnelle-14.jpg'
+        'wagnelle-14.jpg',
+        'wagnelle-15.jpg',
+        'wagnelle-16.jpg',
+        'wagnelle-17.jpg',
+        'wagnelle-18.jpg',
+        'wagnelle-19.jpg',
+        'wagnelle-20.jpg',
+        'wagnelle-21.jpg',
+        'wagnelle-22.jpg',
+        'wagnelle-23.jpg',
+        'wagnelle-24.jpg',
+        'wagnelle-25.jpg',
+        'wagnelle-26.jpg',
+        'wagnelle-27.jpg',
+        'wagnelle-28.jpg',
+        'wagnelle-29.jpg',
+        'wagnelle-30.jpg',
+        'wagnelle-31.jpg',
+        'wagnelle-32.jpg',
+        'wagnelle-33.jpg'
     ]
 };
 
