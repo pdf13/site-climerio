@@ -3,8 +3,6 @@ import bocaDaMata from './data/boca-da-mata';
 import oldBlackDesign from './data/old-black-design';
 import johnatas from './data/johnatas';
 import millenium from './data/millenium';
-import prisma from './data/prisma';
-import wagnelle from './data/wagnelle';
 
 const factories = {
     alphaDinhos,
@@ -12,8 +10,6 @@ const factories = {
     johnatas,
     millenium,
     oldBlackDesign,
-    prisma,
-    wagnelle,
 }
 
 export default factories;
