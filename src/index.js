@@ -20,4 +20,5 @@ const routes = (
     </Router>
 );
 
+// render
 render(routes, document.getElementById('root'));
