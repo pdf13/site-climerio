@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import './Home.css';
 import factories from './factories';
 import FolderList from './FolderList';
-import Slider from './Slider';
+// import Slider from './Slider';
 
 class Home extends Component {
   render() {
