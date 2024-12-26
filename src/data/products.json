@@ -14,13 +14,6 @@
         "tags": ["madeira", "elegante"]
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=cadeira-de-escritorio.jpg&font=playfair-display",
-        "name": "Ergonômica Cadeira de Escritório",
-        "description": "Cadeira de escritório ergonômica e ajustável, projetada para proporcionar conforto durante longas horas de trabalho.",
-        "category": ["Cadeira", "Escritório"],
-        "tags": ["ergonômica", "ajustável"]
-    },
-    {
         "image": "https://placehold.co/2000x1500@2x.png?text=estante-livros.jpg&font=playfair-display",
         "name": "Ampla Estante de Livros",
         "description": "Estante de livros ampla e modular, perfeita para organizar sua coleção de livros e exibir itens decorativos.",
