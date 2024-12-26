@@ -1,9 +1,9 @@
 [
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=dinhos-sofa.jpg&font=playfair-display",
-        "name": "Confortável Sofá",
+        "image": "/Colchoart/Colchobox.jpeg",
+        "name": "Colchobox 02",
         "description": "Este confortável sofá de três lugares é perfeito para qualquer sala de estar moderna, proporcionando conforto e estilo.",
-        "category": ["Sofá", "3 Lugares"],
+        "category": ["Caixa Box", "TESTE", "Buffet"],
         "tags": ["confortável", "moderno"]
     },
     {
