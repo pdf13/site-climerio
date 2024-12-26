@@ -15,12 +15,9 @@
     {
         "name": "Paonanda",
         "images": [
-            "https://placehold.co/2000x1500@2x.png?text=paonanda+1&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=paonanda+2&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=paonanda+3&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=paonanda+4&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=paonanda+5&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=paonanda+6&font=playfair-display"
+            "Paonanda/LINHA DECOR/APARADOR ITALIA/APARADOR ITALIA - AMBIENTE.jpg",
+            "Paonanda//LINHA DECOR/APARADOR ITALIA/APARADOR ITALIA - RECORTE.jpg",
+            "Paonanda//LINHA DECOR/APARADOR ITALIA/APARADOR ITALIA.jpg"
         ],
         "slug": "paonanda"
     },
