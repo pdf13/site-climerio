@@ -15,9 +15,9 @@
     {
         "name": "Paonanda",
         "images": [
-            "Paonanda/LINHA DECOR/APARADOR ITALIA/APARADOR ITALIA - AMBIENTE.jpg",
-            "Paonanda//LINHA DECOR/APARADOR ITALIA/APARADOR ITALIA - RECORTE.jpg",
-            "Paonanda//LINHA DECOR/APARADOR ITALIA/APARADOR ITALIA.jpg"
+            "/Paonanda/LINHA DECOR/APARADOR ITALIA/APARADOR ITALIA - AMBIENTE.jpg",
+            "/Paonanda//LINHA DECOR/APARADOR ITALIA/APARADOR ITALIA - RECORTE.jpg",
+            "/Paonanda//LINHA DECOR/APARADOR ITALIA/APARADOR ITALIA.jpg"
         ],
         "slug": "paonanda"
     },
