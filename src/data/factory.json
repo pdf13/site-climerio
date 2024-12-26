@@ -1,0 +1,123 @@
+[
+    {
+        "name": "L&A",
+        "images": [
+            "https://placehold.co/2000x1500@2x.png?text=l-a+1&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=l-a+2&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=l-a+3&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=l-a+4&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=l-a+5&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=l-a+6&font=playfair-display"
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "slug": "l-a"
+    },
+    {
+        "name": "Paonanda",
+        "images": [
+            "https://placehold.co/2000x1500@2x.png?text=paonanda+1&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=paonanda+2&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=paonanda+3&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=paonanda+4&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=paonanda+5&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=paonanda+6&font=playfair-display"
+        ],
+        "slug": "paonanda"
+    },
+    {
+        "name": "Starflex",
+        "images": [
+            "https://placehold.co/2000x1500@2x.png?text=starflex+1&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=starflex+2&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=starflex+3&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=starflex+4&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=starflex+5&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=starflex+6&font=playfair-display"
+        ],
+        "slug": "starflex"
+    },
+    {
+        "name": "Boca da Mata",
+        "images": [
+            "https://placehold.co/2000x1500@2x.png?text=boca-da-mata+1&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=boca-da-mata+2&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=boca-da-mata+3&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=boca-da-mata+4&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=boca-da-mata+5&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=boca-da-mata+6&font=playfair-display"
+        ],
+        "slug": "boca-da-mata"
+    },
+    {
+        "name": "Alpha",
+        "images": [
+            "https://placehold.co/2000x1500@2x.png?text=alpha+1&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=alpha+2&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=alpha+3&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=alpha+4&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=alpha+5&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=alpha+6&font=playfair-display"
+        ],
+        "slug": "alpha"
+    },
+    {
+        "name": "Colchoart",
+        "images": [
+            "https://placehold.co/2000x1500@2x.png?text=colchoart+1&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=colchoart+2&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=colchoart+3&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=colchoart+4&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=colchoart+5&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=colchoart+6&font=playfair-display"
+        ],
+        "slug": "colchoart"
+    },
+    {
+        "name": "Douglas",
+        "images": [
+            "https://placehold.co/2000x1500@2x.png?text=douglas+1&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=douglas+2&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=douglas+3&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=douglas+4&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=douglas+5&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=douglas+6&font=playfair-display"
+        ],
+        "slug": "douglas"
+    },
+    {
+        "name": "Jonathas",
+        "images": [
+            "https://placehold.co/2000x1500@2x.png?text=jonathas+1&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=jonathas+2&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=jonathas+3&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=jonathas+4&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=jonathas+5&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=jonathas+6&font=playfair-display"
+        ],
+        "slug": "jonathas"
+    },
+    {
+        "name": "VIP",
+        "images": [
+            "https://placehold.co/2000x1500@2x.png?text=vip+1&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=vip+2&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=vip+3&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=vip+4&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=vip+5&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=vip+6&font=playfair-display"
+        ],
+        "slug": "vip"
+    },
+    {
+        "name": "DRW",
+        "images": [
+            "https://placehold.co/2000x1500@2x.png?text=drw+1&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=drw+2&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=drw+3&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=drw+4&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=drw+5&font=playfair-display",
+            "https://placehold.co/2000x1500@2x.png?text=drw+6&font=playfair-display"
+        ],
+        "slug": "drw"
+    }
+]
