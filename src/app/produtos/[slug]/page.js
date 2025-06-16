@@ -2,6 +2,7 @@
 
 import 'react-photo-view/dist/react-photo-view.css';
 
+import { useRouter } from 'next/navigation';
 import data from '../../../data/products.json';
 import { notFound } from 'next/navigation';
 import { PhotoProvider, PhotoView } from 'react-photo-view';
@@ -14,9 +15,24 @@ function intersect(a, b) {
     return [...new Set(a)].filter(x => setB.has(x));
 }
 
+function getFileName(filepath) {
+    return (filepath || '').split('/').pop();
+}
+
+function updateUrlHash(visible, index, state, router) {
+    if (!visible) {
+        router.push('', undefined, { shallow: true })
+        return
+    }
+
+    const product = state?.images?.[index].src
+    router.push(`#${getFileName(product)}`, undefined, { shallow: true })
+}
+
 export default function ProductDetail() {
-    const params = useParams()
-    const slug = params.slug
+    const params = useParams();
+    const router = useRouter();
+    const slug = params.slug;
 
     const products = data.filter((product) => product.category.some(category => slug === slugify(category)));
 
@@ -53,11 +69,11 @@ export default function ProductDetail() {
                 <h1>{category}</h1>
             </article>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-                <PhotoProvider>
+                <PhotoProvider
+                 onVisibleChange={(visible, index, state) => updateUrlHash(visible, index, state, router)}>
                     {products.map((product, index) => <Card product={product} key={index} />)}
                 </PhotoProvider>
             </div>
         </>
     )
-    return <div></div>
 }

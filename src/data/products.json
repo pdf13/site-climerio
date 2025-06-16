@@ -7,119 +7,255 @@
         "tags": ["confortável", "moderno"]
     },
     {
-        "image": "/LeA/Sofa-Roma.jpg",
-        "name": "Sofá Roma único de tecido",
-        "description": "Uma elegante mesa de jantar feita de madeira de alta qualidade, ideal para refeições em família e jantares formais.",
-        "category": ["Mesa", "Jantar", "Madeira", "Elegante"],
-        "tags": ["madeira", "elegante"]
+        "image": "/_products/LeA-Soma_Roma.jpg",
+        "name": "Soma Roma",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=estante-livros.jpg&font=playfair-display",
-        "name": "Ampla Estante de Livros",
-        "description": "Estante de livros ampla e modular, perfeita para organizar sua coleção de livros e exibir itens decorativos.",
-        "category": ["Estante", "Livros"],
-        "tags": ["ampla", "modular"]
+        "image": "/_products/LeA-Canto_Banjul.jpg",
+        "name": "Canto Banjul",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=cama-casal.jpg&font=playfair-display",
-        "name": "Confortável Cama de Casal",
-        "description": "Cama de casal confortável e durável, ideal para uma boa noite de sono e um quarto aconchegante.",
-        "category": ["Cama", "Casal"],
-        "tags": ["confortável", "durável"]
+        "image": "/_products/LeA-Painel.jpg",
+        "name": "Painel",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=poltrona-reclinavel.jpg&font=playfair-display",
-        "name": "Luxuosa Poltrona Reclinável",
-        "description": "Poltrona reclinável luxuosa e confortável, perfeita para relaxar após um longo dia de trabalho.",
-        "category": ["Poltrona", "Reclinável"],
-        "tags": ["luxuosa", "confortável"]
+        "image": "/_products/LeA-Poltrona_Austin.jpg",
+        "name": "Poltrona Austin",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=mesa-de-centro.jpg&font=playfair-display",
-        "name": "Moderna Mesa de Centro",
-        "description": "Mesa de centro moderna com tampo de vidro, ideal para complementar a decoração da sua sala de estar.",
-        "category": ["Mesa", "Centro"],
-        "tags": ["vidro", "moderna"]
+        "image": "/_products/LeA-Poltrona_Kamila.jpg",
+        "name": "Poltrona Kamila",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=guarda-roupa.jpg&font=playfair-display",
-        "name": "Espaçoso Guarda-Roupa",
-        "description": "Guarda-roupa espaçoso e organizado, perfeito para armazenar suas roupas e acessórios de forma prática.",
-        "category": ["Guarda-Roupa", "Casal"],
-        "tags": ["espaçoso", "organizado"]
+        "image": "/_products/LeA-Poltrona_Milla.jpg",
+        "name": "Poltrona Milla",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=rack-tv.jpg&font=playfair-display",
-        "name": "Compacto Rack para TV",
-        "description": "Rack para TV compacto e funcional, ideal para organizar seus aparelhos eletrônicos e decorar sua sala.",
-        "category": ["Rack", "TV"],
-        "tags": ["compacto", "funcional"]
+        "image": "/_products/LeA-Poltrona_Pietra.jpg",
+        "name": "Poltrona Pietra",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=sofa-cama.jpg&font=playfair-display",
-        "name": "Versátil Sofá-Cama",
-        "description": "Sofá-cama versátil e prático, perfeito para receber visitas e otimizar o espaço da sua casa.",
-        "category": ["Sofá", "Cama"],
-        "tags": ["versátil", "prático"]
+        "image": "/_products/LeA-Poltrona_Rabat.jpg",
+        "name": "Poltrona Rabat",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=mesa-de-cabeceira.jpg&font=playfair-display",
-        "name": "Mesa de cabeceira compacta",
-        "category": ["Mesa", "Cabeceira"],
-        "tags": ["compacta", "útil"]
+        "image": "/_products/LeA-Poltrona_Rabat2.jpg",
+        "name": "Poltrona Rabat 2",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=cadeira-de-jantar.jpg&font=playfair-display",
-        "name": "Cadeira de jantar confortável",
-        "category": ["Cadeira", "Jantar"],
-        "tags": ["confortável", "elegante"]
+        "image": "/_products/LeA-Poltrona_Sana.jpg",
+        "name": "Poltrona Sana",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=penteadeira.jpg&font=playfair-display",
-        "name": "Penteadeira clássica",
-        "category": ["Penteadeira", "Quarto"],
-        "tags": ["clássica", "funcional"]
+        "image": "/_products/LeA-Puffs.jpg",
+        "name": "Puffs",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=banco-alto.jpg&font=playfair-display",
-        "name": "Banco moderno",
-        "category": ["Banco", "Alto"],
-        "tags": ["moderno", "resistente"]
+        "image": "/_products/LeA-Puffs2.jpg",
+        "name": "Puffs 2",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=mesa-de-escritorio.jpg&font=playfair-display",
-        "name": "Mesa de escritório",
-        "category": ["Mesa", "Escritório"],
-        "tags": ["ampla", "funcional"]
+        "image": "/_products/LeA-Retratil_Chicago.jpg",
+        "name": "Retratil Chicago",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=cadeira-de-balanco.jpg&font=playfair-display",
-        "name": "Cadeira de balanço",
-        "category": ["Cadeira", "Balanço"],
-        "tags": ["relaxante", "confortável"]
+        "image": "/_products/LeA-Retratil_Zambia.jpg",
+        "name": "Retratil Zambia",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=armario-cozinha.jpg&font=playfair-display",
-        "name": "Armário de Cozinha",
-        "category": ["Armário", "Cozinha"],
-        "tags": ["espaçoso", "organizado"]
+        "image": "/_products/LeA-Sofa_Amsterda.jpg",
+        "name": "Sofa Amsterda",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=sofa-sectional.jpg&font=playfair-display",
-        "name": "Sofá confortável",
-        "category": ["Sofá", "Sectional"],
-        "tags": ["grande", "confortável"]
+        "image": "/_products/LeA-Sofa_Cama_Dakar.jpg",
+        "name": "Sofa Cama Dakar",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=mesa-de-jardim.jpg&font=playfair-display",
-        "name": "Mesa de Jardim",
-        "category": ["Mesa", "Jardim"],
-        "tags": ["resistente", "elegante"]
+        "image": "/_products/LeA-Sofa_Columbus.jpg",
+        "name": "Sofa Columbus",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     },
     {
-        "image": "https://placehold.co/2000x1500@2x.png?text=cadeira-de-praia.jpg&font=playfair-display",
-        "name": "Cadeira de praia",
-        "category": ["Cadeira", "Praia"],
-        "tags": ["leve", "portátil"]
+        "image": "/_products/LeA-Sofa_Damasco.jpg",
+        "name": "Sofa Damasco",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Denver.jpg",
+        "name": "Sofa Denver",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Detroit.jpg",
+        "name": "Sofa Detroit",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Estocolmo.jpg",
+        "name": "Sofa Estocolmo",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Filadelfia.jpg",
+        "name": "Sofa Filadelfia",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Las_Vegas.jpg",
+        "name": "Sofa Las Vegas",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Marrocos.jpg",
+        "name": "Sofa Marrocos",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Miame.jpg",
+        "name": "Sofa Miame",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Panama.jpg",
+        "name": "Sofa Panama",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Retratil_Cartum.jpg",
+        "name": "Sofa Retratil Cartum",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Retratil_Chade.jpg",
+        "name": "Sofa Retratil Chade",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Retratil_Dublin.jpg",
+        "name": "Sofa Retratil Dublin",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Retratil_Seul.jpg",
+        "name": "Sofa Retratil Seul",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Retratil_Toquio.jpg",
+        "name": "Sofa Retratil Toquio",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_San_Jose.jpg",
+        "name": "Sofa San Jose",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Santiago.jpg",
+        "name": "Sofa Santiago",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Valencia.jpg",
+        "name": "Sofa Valencia",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Vaticano.jpg",
+        "name": "Sofa Vaticano",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Sofa_Veneza.jpg",
+        "name": "Sofa Veneza",
+        "description": "",
+        "category": ["nao-categorizado"],
+        "tags": []
     }
 ]
