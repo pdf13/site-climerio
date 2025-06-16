@@ -42,8 +42,6 @@ export default function ProductDetail() {
 
     const category = products[0].category.find(category => slug === slugify(category));
 
-    console.log(products)
-
     const Card = ({ product }) =>
         <PhotoView src={product.image}>
             <div className="card glass shadow-xl">

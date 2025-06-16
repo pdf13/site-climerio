@@ -10,252 +10,259 @@
         "image": "/_products/LeA-Soma_Roma.jpg",
         "name": "Soma Roma",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá leave in"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Canto_Banjul.jpg",
         "name": "Canto Banjul",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá de canto"],
         "tags": []
     },
     {
-        "image": "/_products/LeA-Painel.jpg",
+        "image": "/_products/LeA-Bau.jpg",
         "name": "Painel",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Baú"],
+        "tags": []
+    },
+    {
+        "image": "/_products/LeA-Cabeceira.jpg",
+        "name": "Painel",
+        "description": "",
+        "category": ["Cabeceira"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Poltrona_Austin.jpg",
         "name": "Poltrona Austin",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Poltrona"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Poltrona_Kamila.jpg",
         "name": "Poltrona Kamila",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Poltrona"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Poltrona_Milla.jpg",
         "name": "Poltrona Milla",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Poltrona"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Poltrona_Pietra.jpg",
         "name": "Poltrona Pietra",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Poltrona"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Poltrona_Rabat.jpg",
         "name": "Poltrona Rabat",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Poltrona"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Poltrona_Rabat2.jpg",
         "name": "Poltrona Rabat 2",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Poltrona"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Poltrona_Sana.jpg",
         "name": "Poltrona Sana",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Poltrona"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Puffs.jpg",
         "name": "Puffs",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Puff"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Puffs2.jpg",
         "name": "Puffs 2",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Puff"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Retratil_Chicago.jpg",
         "name": "Retratil Chicago",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá retrátil"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Retratil_Zambia.jpg",
         "name": "Retratil Zambia",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá retrátil"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Amsterda.jpg",
         "name": "Sofa Amsterda",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá de canto"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Cama_Dakar.jpg",
         "name": "Sofa Cama Dakar",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá leave in", "Sofá cama"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Columbus.jpg",
         "name": "Sofa Columbus",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá leave in"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Damasco.jpg",
         "name": "Sofa Damasco",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá de canto"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Denver.jpg",
         "name": "Sofa Denver",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá leave in"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Detroit.jpg",
         "name": "Sofa Detroit",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá leave in"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Estocolmo.jpg",
         "name": "Sofa Estocolmo",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá de canto"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Filadelfia.jpg",
         "name": "Sofa Filadelfia",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá de canto"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Las_Vegas.jpg",
         "name": "Sofa Las Vegas",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá de canto"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Marrocos.jpg",
         "name": "Sofa Marrocos",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá 3x2"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Miame.jpg",
         "name": "Sofa Miame",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá leave in"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Panama.jpg",
         "name": "Sofa Panama",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá 3x2"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Retratil_Cartum.jpg",
         "name": "Sofa Retratil Cartum",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá retrátil"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Retratil_Chade.jpg",
         "name": "Sofa Retratil Chade",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá retrátil"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Retratil_Dublin.jpg",
         "name": "Sofa Retratil Dublin",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá retrátil"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Retratil_Seul.jpg",
         "name": "Sofa Retratil Seul",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá retrátil"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Retratil_Toquio.jpg",
         "name": "Sofa Retratil Toquio",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá retrátil"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_San_Jose.jpg",
         "name": "Sofa San Jose",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá leave in"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Santiago.jpg",
         "name": "Sofa Santiago",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá 3x2"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Valencia.jpg",
         "name": "Sofa Valencia",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá de canto"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Vaticano.jpg",
         "name": "Sofa Vaticano",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá de canto"],
         "tags": []
     },
     {
         "image": "/_products/LeA-Sofa_Veneza.jpg",
         "name": "Sofa Veneza",
         "description": "",
-        "category": ["nao-categorizado"],
+        "category": ["Sofá", "Sofá 3x2"],
         "tags": []
     }
 ]
