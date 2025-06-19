@@ -2,122 +2,112 @@
     {
         "name": "L&A",
         "images": [
-  "L&A/Sofa-Roma.jpg"
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0001.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0002.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0003.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0004.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0005.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0006.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0007.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0008.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0009.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0010.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0011.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0012.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0013.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0014.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0015.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0016.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0017.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0018.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0019.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0020.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0021.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0022.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0023.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0024.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0025.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0026.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0027.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0028.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0029.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0030.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0031.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0032.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0033.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0034.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0035.jpg",
+            "/LeA/LeA-estofados-2025_pages-to-jpg-0036.jpg"
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "",
         "slug": "l-a"
     },
     {
         "name": "Paonanda",
         "images": [
-            "/Paonanda/LINHA DECOR/APARADOR ITALIA/APARADOR ITALIA - AMBIENTE.jpg",
-            "/Paonanda/LINHA DECOR/CONJUNTO ATHENAS.jpg",
-            "/Paonanda/LINHA DECOR/CONJUNTO BERLIM.jpg",
-            "/Paonanda/LINHA DECOR/CONJUNTO BISTRO BAR.jpg",
-            "/Paonanda/LINHA DECOR/CONJUNTO CAPRI.jpg",
-            "/Paonanda/LINHA DECOR/CONJUNTO COLISEU 120.jpg",
-            "/Paonanda/LINHA DECOR/CONJUNTO COLISEU 150.jpg",
-            "/Paonanda/LINHA DECOR/CONJUNTO ITALIA 6 CAD..jpg",
-            "/Paonanda/LINHA DECOR/CONJUNTO ITALIA 8 CAD..jpg",
-            "/Paonanda/LINHA DECOR/CONJUNTO ROMA.jpg",
-            "/Paonanda/LINHA DECOR/CONJUNTO VALENCIA.jpg"
+            "/Paonanda/paonanda_decor_2024_page-0001.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0002.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0003.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0004.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0005.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0006.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0007.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0008.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0009.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0010.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0011.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0012.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0013.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0014.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0015.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0016.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0017.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0018.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0019.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0020.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0021.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0022.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0023.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0024.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0025.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0026.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0027.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0028.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0029.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0030.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0031.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0032.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0033.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0034.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0035.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0036.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0037.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0038.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0039.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0040.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0041.jpg",
+            "/Paonanda/paonanda_decor_2024_page-0042.jpg"
         ],
-        "slug": "paonanda"
+        "slug": "paonanda",
+        "description": ""
     },
     {
-        "name": "Starflex",
+        "name": "JM",
         "images": [
-            "https://placehold.co/2000x1500@2x.png?text=starflex+1&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=starflex+2&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=starflex+3&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=starflex+4&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=starflex+5&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=starflex+6&font=playfair-display"
+            "/JM/JM-2024-2025-00.jpg",
+            "/JM/JM-2024-2025-01.jpg",
+            "/JM/JM-2024-2025-02.jpg",
+            "/JM/JM-2024-2025-03.jpg",
+            "/JM/JM-2024-2025-04.jpg",
+            "/JM/JM-2024-2025-05.jpg",
+            "/JM/JM-2024-2025-06.jpg",
+            "/JM/JM-2024-2025-07.jpg",
+            "/JM/JM-2024-2025-08.jpg",
+            "/JM/JM-2024-2025-09.jpg",
+            "/JM/JM-2024-2025-10.jpg",
+            "/JM/JM-2024-2025-11.jpg"
         ],
-        "slug": "starflex"
-    },
-    {
-        "name": "Boca da Mata",
-        "images": [
-            "https://placehold.co/2000x1500@2x.png?text=boca-da-mata+1&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=boca-da-mata+2&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=boca-da-mata+3&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=boca-da-mata+4&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=boca-da-mata+5&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=boca-da-mata+6&font=playfair-display"
-        ],
-        "slug": "boca-da-mata"
-    },
-    {
-        "name": "Alpha",
-        "images": [
-            "https://placehold.co/2000x1500@2x.png?text=alpha+1&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=alpha+2&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=alpha+3&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=alpha+4&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=alpha+5&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=alpha+6&font=playfair-display"
-        ],
-        "slug": "alpha"
-    },
-    {
-        "name": "Colchoart",
-        "images": [
-            "https://placehold.co/2000x1500@2x.png?text=colchoart+1&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=colchoart+2&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=colchoart+3&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=colchoart+4&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=colchoart+5&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=colchoart+6&font=playfair-display"
-        ],
-        "slug": "colchoart"
-    },
-    {
-        "name": "Douglas",
-        "images": [
-            "https://placehold.co/2000x1500@2x.png?text=douglas+1&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=douglas+2&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=douglas+3&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=douglas+4&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=douglas+5&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=douglas+6&font=playfair-display"
-        ],
-        "slug": "douglas"
-    },
-    {
-        "name": "Jonathas",
-        "images": [
-            "https://placehold.co/2000x1500@2x.png?text=jonathas+1&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=jonathas+2&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=jonathas+3&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=jonathas+4&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=jonathas+5&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=jonathas+6&font=playfair-display"
-        ],
-        "slug": "jonathas"
-    },
-    {
-        "name": "VIP",
-        "images": [
-            "https://placehold.co/2000x1500@2x.png?text=vip+1&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=vip+2&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=vip+3&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=vip+4&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=vip+5&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=vip+6&font=playfair-display"
-        ],
-        "slug": "vip"
-    },
-    {
-        "name": "DRW",
-        "images": [
-            "https://placehold.co/2000x1500@2x.png?text=drw+1&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=drw+2&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=drw+3&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=drw+4&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=drw+5&font=playfair-display",
-            "https://placehold.co/2000x1500@2x.png?text=drw+6&font=playfair-display"
-        ],
-        "slug": "drw"
+        "description": "",
+        "slug": "jm"
     }
 ]

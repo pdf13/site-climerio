@@ -1,5 +1,0 @@
-            "image": "/LeA/Sofa-Roma.jpg", (EVITAR ACENTO ESPAÇO E CARACTERES ESPECIAIS)
-            "name": "Elegante Mesa de Jantar",
-            "description": "Uma elegante mesa de jantar feita de madeira de alta qualidade, ideal para refeições em família e jantares formais.",
-            "category": ["Mesa", "Jantar"], (CATEGORIZAR DE ACORDO COM A LISTA NO CAMPO DE PRODUTOS)
-            "tags": ["madeira", "elegante"] (PARA PESQUISA)
