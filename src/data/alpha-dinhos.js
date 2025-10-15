@@ -3,16 +3,15 @@ const data = {
     slug: 'alpha-dinhos',
     name: 'Alpha/Dinhos',
     photos: [
-		'00001-alpha-dinhos.jpeg',
-		'00002-alpha-dinhos.jpeg',
-		'00003-alpha-dinhos.jpeg',
-		'00004-alpha-dinhos.jpeg',
-		'00005-alpha-dinhos.jpeg',
-		'00006-alpha-dinhos.jpeg',
-		'00007-alpha-dinhos.jpeg',
-		'00008-alpha-dinhos.jpeg',
-		'00009-alpha-dinhos.jpeg',
-		'00010-alpha-dinhos.jpeg',
+		'alpha-dinhos-001.jpeg',
+		'alpha-dinhos-002.jpeg',
+		'alpha-dinhos-003.jpeg',
+		'alpha-dinhos-004.jpeg',
+		'alpha-dinhos-005.jpeg',
+		'alpha-dinhos-006.jpeg',
+		'alpha-dinhos-007.jpeg',
+		'alpha-dinhos-008.jpeg',
+		'alpha-dinhos-009.jpeg',
     ]
 };
 
