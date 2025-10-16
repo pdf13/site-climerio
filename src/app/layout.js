@@ -71,11 +71,11 @@ export default function RootLayout({ children }) {
               </li> */}
             </ul>
           </div>
-          <div className="navbar-end">
+          {/* <div className="navbar-end">
             <div className="form-control">
               <input type="text" placeholder="Pesquisa" className="input input-bordered w-24 md:w-auto" />
             </div>
-          </div>
+          </div> */}
         </div>
         <div className="container mx-auto px-4 py-8">
           {children}
