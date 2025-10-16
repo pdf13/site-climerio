@@ -8,7 +8,9 @@ import { notFound } from 'next/navigation';
 import { PhotoProvider, PhotoView } from 'react-photo-view';
 import { useParams } from 'next/navigation';
 import slugify from '../../../utils/slugify';
+import { DownloadImageButton } from '../../../utils/Downloads';
 import Image from 'next/image'; // TODO: use latter to optimize
+
 
 function intersect(a, b) {
     var setB = new Set(b);
@@ -68,6 +70,13 @@ export default function ProductDetail() {
             </article>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
                 <PhotoProvider
+                    toolbarRender={({ images, index }) => {
+                        return (<DownloadImageButton
+                                    url={window.location.origin}
+                                    image={images[index]?.src}
+                                    key={index}
+                                />)
+                    }}
                  onVisibleChange={(visible, index, state) => updateUrlHash(visible, index, state, router)}>
                     {products.map((product, index) => <Card product={product} key={index} />)}
                 </PhotoProvider>
