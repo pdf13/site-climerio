@@ -7,11 +7,8 @@ const DownloadIcon = ({ width = 20, height = 20, className = "", fill = "current
 )
 
 const DownloadImageButton = ({url, image}) => (
-  <a className="block mr-8" onClick={() => downloadImage(url, image)}>
-    <span className="inline-block mr-4" >
-      <DownloadIcon />
-    </span>
-    <strong>Baixar imagem</strong>
+  <a className="mr-8" onClick={() => downloadImage(url, image)} style={{cursor: 'pointer'}}>
+    <u><strong>Baixar imagem</strong></u>
   </a>
 )
 
