@@ -18,11 +18,11 @@ export default function FabricCatalog() {
         </Link>
 
     return (
-        <div className="grid grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             {
             data
                 .sort((a, b) => a.name.localeCompare(b.name))
-                .map((factory, index) => <Item slug={factory.slug} name={factory.name} key={index}/>)
+                    .map((factory, index) => <Item key={index} slug={factory.slug} name={factory.name}/>)
             }
         </div>
     );
