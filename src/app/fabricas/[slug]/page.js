@@ -6,7 +6,9 @@ import data from '../../../data/factory.json';
 import { notFound } from 'next/navigation';
 import { PhotoProvider, PhotoView } from 'react-photo-view';
 import { useParams } from 'next/navigation';
+import { DownloadImageButton } from '../../../utils/Downloads';
 import Image from 'next/image'; // TODO: use latter to optimize
+
 
 export default function FabricDetail() {
     const params = useParams()
@@ -27,7 +29,14 @@ export default function FabricDetail() {
 
             {factory.description && <p>{factory.description}</p>}
 
-            <PhotoProvider>
+            <PhotoProvider
+                toolbarRender={({ images, index }) => {
+                    return (<DownloadImageButton
+                        url={window.location.origin}
+                        image={images[index]?.src}
+                        key={index}
+                    />)
+                }}>
                 {factory.images.map((image, index) => <Item image={image} index={index} key={index}/>)}
             </PhotoProvider>
         </article>
