@@ -6,8 +6,6 @@ import slugify from '../../utils/slugify';
 export default function ProductCatalog() {
     const categories = new Set(data.flatMap(product => product.category));
 
-    console.log(Array.from(categories).sort())
-
     const Item = ({ slug, name }) =>
         <Link href={`/produtos/${slug}`}>
             <div className="card glass shadow-xl">
